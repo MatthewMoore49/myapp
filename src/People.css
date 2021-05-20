@@ -1,0 +1,10 @@
+body {
+
+    background:powderblue ;
+    transition: all 4s;
+}
+.people form{
+    background:lightslategrey;
+    padding: 20px;
+
+}
